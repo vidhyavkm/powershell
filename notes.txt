@@ -1,0 +1,45 @@
+github is used for code safety and reusability.
+
+1.new => repository
+2.upload files.
+3.git bash method
+4.command line method
+
+but once u plan to push ur files to github, make it a sepearte folder.
+1.index.html
+2.script.js
+3.style.css
+notes.txt(optional)
+
+To see the output in github:
+1.open repository
+2.click settings
+3.click pages in the left side
+4.change main branch and click, github pages build deployment
+5. we got the project output.
+
+if u want to add sone extra files inside a same repo=> 
+click add files=> create a newfile and commit 
+upload files from ur file explorer.
+
+if u want to remove some particular files in the repo 
+click on the file and get in, then click delete button locted int the roght side.
+
+repositoryname should be unique.
+description is like oneline story of ur project
+
+readme=> detailed explanation of the project 
+
+gitbash commands to push codes to github:
+
+git add .
+git commit
+git push
+
+powersheel or command line method=> 
+
+git init
+git add .
+git remote
+git commit -m "any message"
+git push
